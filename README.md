@@ -1,4 +1,4 @@
-# ATMaccount
+# ATMmanagment
 Java OOP
 
 Simple ATM managment with console.
